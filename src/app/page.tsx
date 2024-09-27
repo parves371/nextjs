@@ -1,5 +1,6 @@
 import FeturedSection from "@/components/FeturedSection";
 import HeroSection from "@/components/HeroSection";
+import Testimonial from "@/components/Testimonial";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
         <HeroSection />
         <FeturedSection />
         <WhyChooseUs />
+        <Testimonial />
       </div>
     </main>
   );
