@@ -1,55 +1,124 @@
 {
-    "courses": [
-      {
-        "id": 1,
-        "title": "Guitar Fundamentals",
-        "slug": "guitar-fundamentals",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
-        "price": 99.99,
-        "instructor": "John Doe",
-        "isFeatured": true,
-        "image": "https://example.com/images/guitar.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Piano Essentials",
-        "slug": "piano-essentials",
-        "description": "Master the piano with our step-by-step lessons designed for beginners.",
-        "price": 89.99,
-        "instructor": "Jane Smith",
-        "isFeatured": false,
-        "image": "https://example.com/images/piano.jpg"
-      },
-      {
-        "id": 3,
-        "title": "Advanced Music Theory",
-        "slug": "advanced-music-theory",
-        "description": "Deep dive into music theory and improve your understanding of complex compositions.",
-        "price": 119.99,
-        "instructor": "Emily Brown",
-        "isFeatured": true,
-        "image": "https://example.com/images/music-theory.jpg"
-      },
-      {
-        "id": 4,
-        "title": "Drumming Basics",
-        "slug": "drumming-basics",
-        "description": "Start your drumming journey with our beginner-friendly course.",
-        "price": 79.99,
-        "instructor": "Mike Johnson",
-        "isFeatured": false,
-        "image": "https://example.com/images/drums.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Vocal Training",
-        "slug": "vocal-training",
-        "description": "Enhance your singing skills with professional vocal training techniques.",
-        "price": 109.99,
-        "instructor": "Sarah Lee",
-        "isFeatured": true,
-        "image": "https://example.com/images/vocal.jpg"
-      }
-    ]
-  }
-  
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://example.com/images/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Essentials",
+      "slug": "piano-essentials",
+      "description": "Master the piano with our step-by-step lessons designed for beginners.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://example.com/images/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Music Theory",
+      "slug": "advanced-music-theory",
+      "description": "Deep dive into music theory and improve your understanding of complex compositions.",
+      "price": 119.99,
+      "instructor": "Emily Brown",
+      "isFeatured": true,
+      "image": "https://example.com/images/music-theory.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Start your drumming journey with our beginner-friendly course.",
+      "price": 79.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": false,
+      "image": "https://example.com/images/drums.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training",
+      "slug": "vocal-training",
+      "description": "Enhance your singing skills with professional vocal training techniques.",
+      "price": 109.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "https://example.com/images/vocal.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Explore the art of jazz improvisation with our expertly crafted lessons.",
+      "price": 129.99,
+      "instructor": "Gary White",
+      "isFeatured": false,
+      "image": "https://example.com/images/jazz.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create your own beats and tracks with our electronic music production course.",
+      "price": 139.99,
+      "instructor": "Lisa Green",
+      "isFeatured": true,
+      "image": "https://example.com/images/electronic.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Classical Music History",
+      "slug": "classical-music-history",
+      "description": "Dive deep into the epochs of classical music and discover its greatest works and composers.",
+      "price": 99.99,
+      "instructor": "Tom Black",
+      "isFeatured": false,
+      "image": "https://example.com/images/classical.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Blues Guitar Techniques",
+      "slug": "blues-guitar-techniques",
+      "description": "Learn the soulful techniques of blues guitar to enhance your playing style.",
+      "price": 115.99,
+      "instructor": "Nina Morris",
+      "isFeatured": true,
+      "image": "https://example.com/images/blues-guitar.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Songwriting Secrets",
+      "slug": "songwriting-secrets",
+      "description": "Unlock the secrets to writing hit songs with our expert insights and tips.",
+      "price": 89.99,
+      "instructor": "Chuck Davis",
+      "isFeatured": false,
+      "image": "https://example.com/images/songwriting.jpg"
+    },
+    {
+      "id": 11,
+      "title": "World Music Cultures",
+      "slug": "world-music-cultures",
+      "description": "Explore music from different cultures around the globe.",
+      "price": 75.99,
+      "instructor": "Laura Thompson",
+      "isFeatured": true,
+      "image": "https://example.com/images/world-music.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Film Scoring Basics",
+      "slug": "film-scoring-basics",
+      "description": "Learn the fundamentals of composing music for film and television.",
+      "price": 139.99,
+      "instructor": "Rachel Evans",
+      "isFeatured": false,
+      "image": "https://example.com/images/film-scoring.jpg"
+    }
+  ]
+}
