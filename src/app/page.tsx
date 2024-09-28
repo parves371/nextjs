@@ -3,7 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import OpcomingWebinars from "@/components/OpcomingWebinars";
 import Testimonial from "@/components/Testimonial";
 import WhyChooseUs from "@/components/WhyChooseUs";
-
+import Instructors from "@/components/Instructors";
 export default function Home() {
   return (
     <main className="min-h-screen text-white bg-black/[0.96] antialiased bg-grid-white/[0.2]">
@@ -13,6 +13,7 @@ export default function Home() {
         <WhyChooseUs />
         <Testimonial />
         <OpcomingWebinars />
+        <Instructors />
       </div>
     </main>
   );
