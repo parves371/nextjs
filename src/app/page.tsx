@@ -1,5 +1,6 @@
 import FeturedSection from "@/components/FeturedSection";
 import HeroSection from "@/components/HeroSection";
+import OpcomingWebinars from "@/components/OpcomingWebinars";
 import Testimonial from "@/components/Testimonial";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
@@ -11,6 +12,7 @@ export default function Home() {
         <FeturedSection />
         <WhyChooseUs />
         <Testimonial />
+        <OpcomingWebinars />
       </div>
     </main>
   );
